@@ -1,0 +1,33 @@
+body{
+    background-color: bisque;
+}
+.header_div{
+    background-color: rgb(250, 249, 249);
+}
+.header_div p{
+    color: red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bolds;
+}
+.main_div button{
+    width: 130px;
+    letter-spacing: 3px;
+    font-weight: bold;
+    background-color:deeppink;
+    margin: 20px;
+}
+.main_div button:hover{
+    background-color: hotpink;
+}
+.copyright_footer{
+    background-color: white;
+    text-shadow: 10px;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: double;
+    font-size: 20px;
+    bottom:0;
+    position: fixed;
+    width: 100%;
+}
